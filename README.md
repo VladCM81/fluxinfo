@@ -59,7 +59,7 @@ Lastly, I added radio buttons to switch prices on the website for 3 currencies (
 
 ## Tech Stack
 
-**Server hosting:** Website is currently hosted on a VPS, but I hope it will soon runs on Flux!
+**Server hosting:** It runs on Flux!
 
 **Website:** HTML, CSS and Javascript
 
