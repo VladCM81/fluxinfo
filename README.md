@@ -50,12 +50,13 @@ Lastly, I added radio buttons to switch prices on the website for 3 currencies (
 
 ## Roadmap (or todolist)
 
-- Give an option to enter both IP or Flux walletID for node rank info section
-- Create a feature that would determine which tier nodes to install based on a Flux collateral volume
-- Add button to refresh data fetching, calculation and node ranking
-- Add a light/dark mode toggle
-- Add others data and graphs usefull for the Flux community
-- Feel free to suggest things you would like to see implemented
+- ✅ Move website to Run on Flux
+- ⬜ Give an option to enter both IP or Flux walletID for node rank info section
+- ⬜ Create a feature that would determine which tier nodes to install based on a Flux collateral volume
+- ⬜ Add button to refresh data fetching, calculation and node ranking
+- ⬜ Add a light/dark mode toggle
+- ⬜ Add others data and graphs usefull for the Flux community
+- ⬜ Feel free to suggest things you would like to see implemented
 
 ## Tech Stack
 
