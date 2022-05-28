@@ -44,16 +44,20 @@ I then added a section with the total monthly profit for those lucky enough to m
 
 <img width="600" alt="FluxInfo_2022-04-21" src="https://user-images.githubusercontent.com/102852122/167937926-b11c5692-1f23-49d8-85b7-cb863292899c.png">
 
-Lastly, I added radio buttons to switch prices on the website for 3 currencies (USD, EUR and GBP). I also rebuilt the website from scratch with only HTML, CSS and JS and I removed all the PHP code that was used before for initial calculation. The VPS cost sliders have also been replaced by input textbox.
+Radio buttons have been added to switch prices on the website for 3 currencies (USD, EUR and GBP). I also rebuilt the website from scratch with only HTML, CSS and JS and I removed all the PHP code that was used before for initial calculation. The VPS cost sliders have also been replaced by input textbox.
 
 <img width="300" alt="FluxInfo_2022-05-06" src="https://user-images.githubusercontent.com/102852122/167937988-62eafd64-4464-4a62-8ed6-0209bb74a86a.png">
+
+Lastly, I added a button to refresh the data fetching (Flux price in different currencies) and CHF currency has been added to the price selector for all calculation. I also added a new section with some information about FluxInfo webpage. Some small issues have been fixed as well as some typo.
+
+<img width="600" alt="FluxInfo_2022-05-28" src="https://user-images.githubusercontent.com/102852122/170841952-7c512cb2-ded0-422a-a4ff-d3544ee402cf.png">
 
 ## Roadmap (or todolist)
 
 - ✅ Move website to Run on Flux
+- ✅ Add an option to refresh data fetching, calculation and node ranking
 - ⬜ Give an option to enter both IP or Flux walletID for node rank info section
 - ⬜ Create a feature that would determine which tier nodes to install based on a Flux collateral volume
-- ⬜ Add button to refresh data fetching, calculation and node ranking
 - ⬜ Add a light/dark mode toggle
 - ⬜ Add others data and graphs usefull for the Flux community
 - ⬜ Feel free to suggest things you would like to see implemented
