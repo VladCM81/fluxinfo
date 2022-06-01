@@ -48,16 +48,22 @@ Radio buttons have been added to switch prices on the website for 3 currencies (
 
 <img width="300" alt="FluxInfo_2022-05-06" src="https://user-images.githubusercontent.com/102852122/167937988-62eafd64-4464-4a62-8ed6-0209bb74a86a.png">
 
-Lastly, I added a button to refresh the data fetching (Flux price in different currencies) and CHF currency has been added to the price selector for all calculation. I also added a new section with some information about FluxInfo webpage. Some small issues have been fixed as well as some typo.
+I then added a button to refresh the data fetching (Flux price in different currencies) and CHF currency has been added to the price selector for all calculation. I also added a new section with some information about FluxInfo webpage. Some small issues have been fixed as well as some typo.
 
 <img width="600" alt="FluxInfo_2022-05-28" src="https://user-images.githubusercontent.com/102852122/170841952-7c512cb2-ded0-422a-a4ff-d3544ee402cf.png">
+
+Lastly, I added an option to choose between IP or Flux wallet address to search the node(s). It now lists all nodes associated with that IP/wallet address with the rank and date of the next reward.
+
+<img width="600" alt="FluxInfo_2022-06-01" src="https://user-images.githubusercontent.com/102852122/171492091-eadb278a-4d70-4d04-8ed4-919ad823e7c5.png">
 
 ## Roadmap (or todolist)
 
 - ✅ Move website to Run on Flux
 - ✅ Add an option to refresh data fetching, calculation and node ranking
-- ⬜ Give an option to enter both IP or Flux walletID for node rank info section
+- ✅ Give an option to enter both IP or Flux walletID for node rank info section
 - ⬜ Create a feature that would determine which tier nodes to install based on a Flux collateral volume
+- ⬜ Add a customized Flux price in the simulator
+- ⬜ Allow IP/wallet address to be a query string variable
 - ⬜ Add a light/dark mode toggle
 - ⬜ Add others data and graphs usefull for the Flux community
 - ⬜ Feel free to suggest things you would like to see implemented
