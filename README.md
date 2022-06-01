@@ -54,7 +54,7 @@ I then added a button to refresh the data fetching (Flux price in different curr
 
 Lastly, I added an option to choose between IP or Flux wallet address to search the node(s). It now lists all nodes associated with that IP/wallet address with the rank and date of the next reward.
 
-<img width="600" alt="FluxInfo_2022-06-01" src="https://user-images.githubusercontent.com/102852122/171492091-eadb278a-4d70-4d04-8ed4-919ad823e7c5.png">
+<img width="600" alt="FluxInfo_2022-06-01" src="https://user-images.githubusercontent.com/102852122/171492751-b5a288a6-b385-4bb5-a56f-000b3de0c64d.png">
 
 ## Roadmap (or todolist)
 
